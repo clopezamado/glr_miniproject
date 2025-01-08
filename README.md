@@ -20,6 +20,10 @@ pip install torch==2.5.1
 
 Install requirements:
 ```bash
+conda install freetype
+```
+
+```bash
 pip install -r requirements.txt
 ```
 ## Running examples
